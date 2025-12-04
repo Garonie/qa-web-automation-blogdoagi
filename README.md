@@ -37,7 +37,7 @@ src
 1. Clone este repositório:
 
 ```bash
-git clone 
+git clone https://github.com/Garonie/qa-web-automation-blogdoagi.git
 ```
 
 2. Execute os testes com Maven:
